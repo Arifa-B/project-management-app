@@ -8,6 +8,10 @@ Bujo (meaning "Bullet Journaling") is a full stack app with the following featur
 * Nested documents
 * Real-time database
 
+Landing Page:
+<img width="1707" alt="image" src="https://github.com/Arifa-B/project-management-app/assets/44043949/e924c54e-c674-42ab-8a70-e4c7b7f9fac6">
+
+
 ## Getting Started
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
