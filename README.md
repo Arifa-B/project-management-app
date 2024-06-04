@@ -1,6 +1,15 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Project Management App: Bujo
+Bujo (meaning "Bullet Journaling") is a full stack app with the following features:
+
+* File management
+* Mobile responsiveness
+* Dark mode
+* Authentication
+* Nested documents
+* Real-time database
 
 ## Getting Started
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
